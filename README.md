@@ -8,12 +8,12 @@ Uma aplicação de desktop para catalogar sua coleção de livros. Desenvolvida 
 *  **Listar e Visualizar:** Veja todos os seus livros em uma lista organizada.
 *  **Editar:** Modifique as informações de qualquer livro já cadastrado.
 *  **Remover:** Apague livros da sua estante, individualmente ou todos de uma vez.
-*  **Buscar:** Apague livros da sua estante, individualmente ou todos de uma vez.
+*  **Buscar:** Encontre livros rapidamente digitando o nome no campo de busca.
 *  **Filtrar:** Filtre sua coleção por gênero para encontrar exatamente o que procura.
 
 # Tecnologias Utilizadas
-* **Python:** linguagem principal utilizada no projeto.
-* **Tkinter:** biblioteca padrão do Python para interfaces gráficas.
+* **Python:** Linguagem principal utilizada no projeto.
+* **Tkinter:** Biblioteca padrão do Python para interfaces gráficas.
 * **Pickle:** Módulo que permite serializar e salvar os dados dos livros da estante em um arquivo local.
 
 # Executando o código
